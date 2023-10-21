@@ -1,8 +1,8 @@
-# dbo.sp_ExecuteRandomProc
+# dbo.sp_ExecuteRandomProc  
+  
+**Written By:** Andy Yun  
+**Created On:** 2021-10-19  
 
-**Written By:** Andy Yun
-**Created On:** 2021-10-19
- ---
 ## Summary
 This procedure was created as a randomized workload utility, primarily for
 demo purposes.  
